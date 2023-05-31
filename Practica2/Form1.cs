@@ -56,5 +56,20 @@ namespace Practica2
         {
             MessageBox.Show("Busqueda con filtros aplicados");
         }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
